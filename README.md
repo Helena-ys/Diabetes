@@ -48,7 +48,12 @@ To improve the performance of classifiers on imbalanced datasets.
 - SMOTE: Synthetic Minority Over-sampling Technique
 
 ### Model Comparison Matrix
-<img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_DiffWalking.jpg" width=50% height=50%>
+<img src="https://github.com/Helena-ys/Diabetes/blob/main/Model_Comparison_Matrix.JPG" width=50% height=50%>
+
+## Conclusion
+Based on the Model Comparison Matrix presented above, the combination of high blood pressure, general health, blood cholesterol, age group, and difficulty walking were found to be the most accurate predictors for an individual's diabetes.
+
+During the multiple tests conducted on various combinations of significant variables, the features selected by RFE and Feature Importance algorithms generated an "Undefined Metric Warning". To address this issue, the "zero_division" parameter can be implemented to control this behavior. Implementing this parameter could potentially improve the model and help to develop a more accurate model.
 
 
 ### Data Source
