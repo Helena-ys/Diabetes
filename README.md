@@ -48,7 +48,7 @@ To improve the performance of classifiers on imbalanced datasets.
 - SMOTE: Synthetic Minority Over-sampling Technique
 
 ### Model Comparison Matrix
-<img src="https://github.com/Helena-ys/Diabetes/blob/main/Model_Comparison_Matrix.JPG" width=50% height=50%>
+<img src="https://github.com/Helena-ys/Diabetes/blob/main/Model_Comparison_Matrix.JPG" width=60% height=60%>
 
 ## Conclusion
 Based on the Model Comparison Matrix presented above, the combination of high blood pressure, general health, blood cholesterol, age group, and difficulty walking were found to be the most accurate predictors for an individual's diabetes.
