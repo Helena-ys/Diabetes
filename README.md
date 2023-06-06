@@ -47,8 +47,8 @@ In this analysis, the following classifiers combined:
 To improve the performance of classifiers on imbalanced datasets.
 - SMOTE: Synthetic Minority Over-sampling Technique
 
-
-
+### Model Comparison Matrix
+<img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_DiffWalking.jpg" width=50% height=50%>
 
 
 ### Data Source
