@@ -28,6 +28,18 @@ To identify significant features in a dataset, the following algorithms used:
 - Recursive Feature Elimination 
 - Feature Importance
 
+### Chi-square Test
+The chart below highlights the 5 most significant features: "Mental Health", "Difficulty Walking", "High Blood Pressure", "General Health", and “Age”.
+
+### Forward Feature Elimination
+The chart below highlights the 4 most significant features: "General Health", "High Blood Pressure", "Difficulty Walking", and "High Cholesterol”.
+
+### Recursive Feature Elimination
+RFE is an iterative method that involves training a model on all features, ranking the features based on their importance, and recursively removing the least important features until the desired number of features is achieved. By this algorithm, the following five significant variables were selected as significant: "High Blood Pressure", "Cholesterol Checked", "Heavy Alcohol Consumption", "BMI_(10-20)", and "BMI_(20-30)". 
+
+### Feature Importance
+Random forests have a feature that allows them to rank variables in order of importance or significance for predicting the target variable. This feature is based on the Gini importance or mean decrease impurity. The chart below highlights the 5 most significant features: "High Cholesterol", “Cholesterol Checked”, “Stroke”, "High Blood Pressure", and “Smoker”.
+
 ## Model Evaluation
 During the process of evaluating models, the following techniques were utilized to enhance the accuracy and robustness of the model.
 - Scaling methods: Scaling was used to normalize the data and improve its performance.
