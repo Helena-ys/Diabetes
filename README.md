@@ -15,6 +15,19 @@ This report utilizes a cleaned and consolidated dataset from the BRFSS 2015 data
     
     <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_DiffWalking.jpg" width=50% height=50%>
 
+### Medium Target Predictors
+- Impact of High Cholesterol, Age and Heart Attack Diagnosed on the prediction of diabetes.
+  - **High Cholesterol**: Compared to individuals who do not experience high blood cholesterol, those who do have a 14% higher risk of developing diabetes.
+    
+    <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_HighChol.jpg" width=50% height=50%>
+  - **Age**: The age column is divided into 13 categories, with each category representing a 5-year age range starting from 18-24 years old. As individuals get older, their risk of developing diabetes increases.
+
+    <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_Age.jpg" width=100% height=100%>
+  - **Heart Attack Diagnosed**: Individuals who have experienced a heart attack have a 20% higher risk of developing diabetes compared to those who have not. However, only 22% of individuals who have had a heart attack have diabetes.
+    
+    <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_HeartAttack.jpg" width=50% height=50%>
+
+
 ## Data Preparation
 ### Data Transformation Techniques
 - Filling in missing data
