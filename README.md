@@ -27,6 +27,14 @@ This report utilizes a cleaned and consolidated dataset from the BRFSS 2015 data
     
     <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_HeartAttack.jpg" width=50% height=50%>
 
+### Low Target Predictors
+- Impact of Cholesterol Checked and Heavy Alcohol Consumption on the prediction of diabetes.
+  - **Blood Cholesterol Checked**: Nearly all individuals (99%) had their blood cholesterol checked, and approximately 14% of them were found to have diabetes.
+    
+    <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_CholChecked.jpg" width=50% height=50%>
+  - **•Heavy Alcohol Consumption**: About 2% of individuals with diabetes were heavy drinkers.
+
+    <img src="https://github.com/Helena-ys/Diabetes/blob/main/Chart_HeavyDrinker.jpg" width=50% height=50%>
 
 ## Data Preparation
 ### Data Transformation Techniques
